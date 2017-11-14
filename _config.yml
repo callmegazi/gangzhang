@@ -15,10 +15,11 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Gang &#199; Zhang
+title: gang zhang website
 
 # Short description of your site
-description: Thank you for visiting my webpage. I am a PhD Candidate in Economics at the University of Virginia. I will be available for interviews at the 2018 ASSA Conference in Philaladelphia.
+description: Welcome to my webpage. I am a PhD Candidate in Economics at the University of Virginia. 
+I will be available for interviews at the 2018 ASSA Conference in Philaladelphia.
 
 # --- Navigation bar options --- #
 
